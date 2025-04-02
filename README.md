@@ -74,13 +74,11 @@ Podemos imaginar este estado como una **matriz de 4x4** palabras de 32 bits cada
  └────────────┴────────────┴────────────┴────────────┘
 ```
 
-![Estructura de la matriz de estado](estado.png)
-
 ### Quarter Round
 
 Una **Quarter Round** (ronda de cuarto) es una secuencia de operaciones que toma cuatro palabras (a, b, c, d) y las transforma para dispersar los bits. Implica sumas, rotaciones y XORs.
 
-![Quarter Round](quarter-round.png)
+![Quarter Round](/images/quarter-round.png)
 
 ### Double Round
 
