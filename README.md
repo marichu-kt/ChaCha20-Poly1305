@@ -15,7 +15,7 @@ ChaCha20 es un **cifrado de flujo** (stream cipher) diseñado por Daniel J. Bern
 ### Poly1305
 Poly1305 es un algoritmo de **autenticación de mensajes** (Message Authentication Code, MAC) también creado por Daniel J. Bernstein. Cuando se combina con ChaCha20, se obtiene ChaCha20-Poly1305, un modo de cifrado autenticado (AEAD) que no solo cifra los datos, sino que **garantiza su integridad** y la **autenticidad** de los mismos.
 
-![ChaCha20-Poly1305](./images/ChaCha20-Poly1305_Encryption.svg)
+![ChaCha20-Poly1305](./images/ChaCha20-Poly1305_Encryption.png)
 
 ---
 
