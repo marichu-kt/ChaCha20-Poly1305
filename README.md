@@ -142,14 +142,6 @@ ChaCha20-Poly1305 es un sistema de cifrado y autenticación robusto, rápido y s
 
 ---
 
-## Imágenes sugeridas
-
-1. ![Estructura de la matriz de estado](estado.png) → "Una imagen que muestre una matriz de 4x4 con cada celda etiquetada como constante, clave, contador y nonce".
-2. ![Quarter Round](quarter-round.png) → "Un diagrama paso a paso mostrando cómo se transforma un bloque de 4 palabras en una quarter round".
-3. ![Transformación de estado en una double round](transformacion-ronda.png) → "Una representación visual de cómo la matriz cambia durante una double round".
-
----
-
 ## Referencias
 
 - Bernstein, D. J. (2008). *ChaCha, a variant of Salsa20*.
