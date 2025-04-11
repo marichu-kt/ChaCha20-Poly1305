@@ -2,8 +2,6 @@
 
 Bienvenido(a) a esta guía sobre ChaCha20-Poly1305, un **algoritmo de cifrado y autenticación** ampliamente utilizado en la actualidad. A lo largo de este documento, exploraremos en detalle qué es ChaCha20, cómo funciona internamente y por qué se combina con Poly1305 para formar un esquema de cifrado **AEAD (Authenticated Encryption with Associated Data)** seguro y eficiente.
 
----
-
 ![Execution](/images/execution.png)
 
 ---
