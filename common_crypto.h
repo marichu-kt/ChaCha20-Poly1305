@@ -7,9 +7,9 @@
 #include <string>
 #include <stdexcept>
 
-constexpr int KEY_LEN = 32;          // LONGITUD CLAVE 256 BITS
-constexpr int NONCE_LEN = 12;        // LONGITUD NONCE 96 BITS
-constexpr int TAG_LEN = 16;          // LONGITUD TAG 128 BITS
+constexpr int KEY_LEN = 32;          // LONGITUD CLAVE 256 BITS ("LLAVE")
+constexpr int NONCE_LEN = 12;        // LONGITUD NONCE 96 BITS ("NUMERO")
+constexpr int TAG_LEN = 16;          // LONGITUD TAG 128 BITS ("ETIQUETA")
 
 // GENERA CLAVE ALEATORIA
 inline void generate_key(std::vector<unsigned char>& key) {
