@@ -4,6 +4,9 @@ Bienvenido(a) a esta guía sobre ChaCha20-Poly1305, un **algoritmo de cifrado y 
 
 ---
 
+![Execution](/images/execution.png)
+
+---
 ## ¿Qué es ChaCha20?
 
 ChaCha20 es un **cifrado de flujo** (stream cipher) diseñado por Daniel J. Bernstein. Se considera una variante mejorada del cifrado Salsa20, optimizada en términos de seguridad y rendimiento en diversas plataformas, incluyendo dispositivos móviles y entornos de bajo consumo energético.
