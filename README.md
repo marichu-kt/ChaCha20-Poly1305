@@ -4,8 +4,6 @@ Bienvenido(a) a esta guía sobre ChaCha20-Poly1305, un **algoritmo de cifrado y 
 
 ![Execution](/images/execution.png)
 
-![Execution](/images/wireshark.png)
-
 ---
 ## ¿Qué es ChaCha20?
 
