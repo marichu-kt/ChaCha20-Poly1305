@@ -37,7 +37,7 @@ This project implements a secure, multi-client communication system in C++ using
 
 ## 📂 Project Structure
 ```mermaid
-graph TD
+graph LR
     A[ChaCha20-Poly1305-X25519/] --> A1[README.md]
     A --> A2[LICENSE]
     A --> A3[client.cpp]
