@@ -1,0 +1,17 @@
+[2025-04-16 00:01:01.646] [Servidor 1842] Cliente conectado
+[2025-04-16 00:01:08.984] [Servidor 7935] Cliente conectado
+[2025-04-16 00:01:12.122] [Servidor 6263] Cliente conectado
+[2025-04-16 00:03:20.371] [Broadcast 6263] Hola a todos los clientes
+[2025-04-16 00:03:20.371] [Broadcast 7935] Hola a todos los clientes
+[2025-04-16 00:03:20.371] [Broadcast 1842] Hola a todos los clientes
+[2025-04-16 00:03:20.372] [Servidor -1] Broadcast: Hola a todos los clientes
+[2025-04-16 00:03:45.434] [Servidor 7935] Hola cliente individual
+[2025-04-16 00:04:11.820] [Cliente 1842] Hola Servidor, soy un Cliente
+[2025-04-16 00:04:46.816] [Cliente 6263] Oye Servidor, te voy a enviar un NFT
+[2025-04-16 00:05:42.763] [Cliente 6263] Archivo recibido: NFT_V5.jpg (72523 bytes)
+[2025-04-16 00:06:09.480] [Servidor 6263] Recibido el NFT, muchas gracias
+[2025-04-16 00:06:17.591] [Cliente 7935] Adios
+[2025-04-16 00:06:20.620] [Servidor 7935] Cliente desconectado
+[2025-04-16 00:06:35.365] [Cliente 6263] Tengo que irme
+[2025-04-16 00:06:37.895] [Servidor 6263] Cliente desconectado
+[2025-04-16 00:07:00.628] [Servidor -1] Server terminated via 'exit' command.
