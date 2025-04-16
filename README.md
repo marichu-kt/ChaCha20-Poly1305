@@ -36,29 +36,33 @@ This project implements a secure, multi-client communication system in C++ using
 ---
 
 ## 📂 Project Structure
-```
-ChaCha20-Poly1305-X25519/
-├── README.md
-├── LICENSE
-├── client.cpp            # Client implementation
-├── server.cpp            # Server implementation
-├── common_crypto.h       # Cryptographic functions (ChaCha20, X25519)
-├── logger.h              # Thread-safe logging system
-├── tinyxml2.cpp/.h       # Lightweight XML parser for config files
-├── logs/                 # Log storage
-│   └── communications_history.log
-├── bin/                  # Compiled executables
-│   ├── client.exe
-│   └── server.exe
-├── public/               # Public resources (docs, compilation guide)
-│   └── COMPILATION.md
-├── received_files/       # Folder where received files are stored
-├── src/                  # Configuration and launcher scripts
-│   ├── client.bat
-│   ├── server.bat
-│   ├── client.xml
-│   └── server.xml
-└── .vscode/              # Development settings
+```mermaid
+graph TD
+    A[ChaCha20-Poly1305-X25519/] --> A1[README.md]
+    A --> A2[LICENSE]
+    A --> A3[client.cpp]
+    A --> A4[server.cpp]
+    A --> A5[common_crypto.h]
+    A --> A6[logger.h]
+    A --> A7[tinyxml2.cpp/.h]
+
+    A --> B[logs/]
+    B --> B1[communications_history.log]
+
+    A --> C[bin/]
+    C --> C1[client.exe]
+    C --> C2[server.exe]
+
+    A --> D[public/]
+    D --> D1[COMPILATION.md]
+
+    A --> E[received_files/]
+
+    A --> F[src/]
+    F --> F1[client.bat]
+    F --> F2[server.bat]
+    F --> F3[client.xml]
+    F --> F4[server.xml]
 ```
 
 ---
