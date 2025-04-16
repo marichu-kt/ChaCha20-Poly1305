@@ -206,7 +206,7 @@ Logs are automatically stored with timestamp, source, and message. Sample:
 [2025-04-16 00:07:00.628] [Servidor -1] Server terminated via 'exit' command.
 ```
 
-📄 Full log file available here: [communications_history.log](https://github.com/marichu-kt/ChaCha20-Poly1305-X25519/blob/main/communications_history.log)
+📄 Full log file available here: [communications_history.log](https://github.com/marichu-kt/ChaCha20-Poly1305-X25519/blob/main/logs/communications_history.log)
 
 ---
 
