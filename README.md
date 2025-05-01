@@ -7,6 +7,19 @@ This project implements a secure, multi-client communication system in C++ using
 
 ---
 
+## 🎥 Demo / Screenshots
+
+Here’s a live demonstration showing:
+
+- The server running and accepting connections.
+- 3 clients connected, each with a unique ID.
+- Using the `list` command to view connected clients.
+- Sending a `broadcast` message to all clients at once.
+
+![SecureChat Execution](public/images/demo_execution.png)
+
+---
+
 ## ✨ Key Features
 - ✅ **End-to-end encryption** using ChaCha20-Poly1305 (AEAD).
 - ✅ **Ephemeral session keys** via X25519 ECDH key exchange.
