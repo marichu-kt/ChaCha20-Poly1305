@@ -68,6 +68,8 @@ graph LR
 
     A --> D[public/]
     D --> D1[COMPILATION.md]
+    D --> D2[images/]
+    D2 --> D3[demo_execution.png]
 
     A --> E[received_files/]
 
