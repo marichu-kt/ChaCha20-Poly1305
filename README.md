@@ -1,4 +1,4 @@
-# Secure Communication System with ChaCha20-Poly1305 and X25519
+# Secure Communication System ChaCha20-Poly1305 + X25519
 
 ## 🔐 Project Overview
 This project implements a secure, multi-client communication system in C++ using modern cryptographic algorithms: **ChaCha20-Poly1305** for authenticated encryption and **X25519** for secure key exchange. It allows simultaneous connections from multiple clients to a central server, enabling encrypted real-time messaging and file transfer with built-in logging and full control from the server side.
